@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "gms_CaseDetailsFetch_1.0", "gms_CaseDetailsFetch_1.0\gms_CaseDetailsFetch_1.0.dtproj", "{617D652F-BEE3-495C-AD42-140724F26B55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{617D652F-BEE3-495C-AD42-140724F26B55}.Development|Default.ActiveCfg = Development
+		{617D652F-BEE3-495C-AD42-140724F26B55}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B24A1A09-8648-4561-8D33-5832053ED1C3}
+	EndGlobalSection
+EndGlobal
